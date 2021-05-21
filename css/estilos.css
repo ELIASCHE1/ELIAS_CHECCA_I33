@@ -174,7 +174,7 @@ main .portafolio .galeria .fotos img:hover{
 
 footer .contacto{
     height: 600px;
-    background-image: url(../img/footer.png);
+    background-image: url(../img/programacion.jpg);
     background-position: center;
     padding: 60px 0;
 }
@@ -238,7 +238,7 @@ footer .contacto input[type="submit"]{
 }
 
 footer .contacto input[type="submit"]:hover{
-    background: #15a4fa;
+    background:black;
     color: #fff;
 }
 
